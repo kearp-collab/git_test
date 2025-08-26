@@ -1,4 +1,11 @@
 .responsive-image {
   max-width: 100%; /* Image will not exceed the width of its container */
   height: auto;
+  text-align: center;
+}
+
+script {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
 }
